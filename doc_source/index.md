@@ -1,23 +1,3 @@
-# Amazon Elastic Compute Cloud User Guide for Linux Instances
-
------
-*****Copyright &copy; 2020 Amazon Web Services, Inc. and/or its affiliates. All rights reserved.*****
-
------
-Amazon's trademarks and trade dress may not be used in 
-     connection with any product or service that is not Amazon's, 
-     in any manner that is likely to cause confusion among customers, 
-     or in any manner that disparages or discredits Amazon. All other 
-     trademarks not owned by Amazon are the property of their respective
-     owners, who may or may not be affiliated with, connected to, or 
-     sponsored by Amazon.
-
------
-## Contents
-+ [What is Amazon EC2?](concepts.md)
-   + [Instances and AMIs](ec2-instances-and-amis.md)
-   + [Regions, Availability Zones, and Local Zones](using-regions-availability-zones.md)
-   + [Amazon EC2 root device volume](RootDeviceStorage.md)
 + [Setting up with Amazon EC2](get-set-up-for-amazon-ec2.md)
 + [Getting started with Amazon EC2 Linux instances](EC2_GetStarted.md)
 + [Best practices for Amazon EC2](ec2-best-practices.md)
